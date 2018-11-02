@@ -6,6 +6,7 @@ public class HelloGit {
 		
 		System.out.println("Nayeon");
 		System.out.println("Hello!!");
+		System.out.println("no1");
 		
 	}
 }
